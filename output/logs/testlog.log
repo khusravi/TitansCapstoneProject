@@ -1,0 +1,206 @@
+2022-06-24 21:11:04,856 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-24 21:11:09,426 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-24 21:11:30,383 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-24 21:24:08,070 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-24 21:24:10,876 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-24 21:24:11,551 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-24 21:24:11,808 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-24 21:24:11,987 - .\src\test\resources\input\log4j.properties -INFO - user enter username userName and  password password
+2022-06-24 21:24:12,532 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-24 21:24:36,709 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-24 21:30:43,516 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-24 21:30:46,447 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-24 21:30:47,123 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-24 21:30:47,401 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-24 21:30:47,588 - .\src\test\resources\input\log4j.properties -INFO - user enter username m.khusravi@tekschool.us and  password 1234567890
+2022-06-24 21:30:48,189 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-24 21:30:48,236 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-24 21:30:48,585 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodUNDEFINED
+2022-06-24 21:40:06,356 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-24 21:40:09,242 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-24 21:40:09,951 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-24 21:40:10,197 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-24 21:40:10,394 - .\src\test\resources\input\log4j.properties -INFO - user enter username m.khusravi@tekschool.us and  password 1234567890
+2022-06-24 21:40:10,936 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-24 21:40:10,982 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-24 21:40:11,283 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodUNDEFINED
+2022-06-25 00:27:30,008 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 00:27:32,843 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 00:27:33,481 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 00:27:33,756 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 00:27:33,941 - .\src\test\resources\input\log4j.properties -INFO - user enter username m.khusravi@tekschool.us and  password 1234567890
+2022-06-25 00:27:34,499 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 00:27:34,553 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 00:27:54,951 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 00:44:14,076 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 00:44:17,469 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 00:44:18,152 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 00:44:18,401 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 00:44:18,600 - .\src\test\resources\input\log4j.properties -INFO - user enter username abdul@gmail.com and  password 1234567890
+2022-06-25 00:44:19,188 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 00:44:19,237 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 00:44:19,697 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 00:44:19,994 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 00:53:53,147 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 00:53:55,938 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 00:54:01,547 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 00:54:06,844 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 00:54:12,097 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 00:54:17,710 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 00:54:22,790 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 00:54:28,333 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 00:54:33,698 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 00:59:39,279 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 00:59:42,556 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 00:59:48,220 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 00:59:53,620 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 00:59:58,841 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 01:00:04,504 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 01:00:09,595 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 01:00:15,079 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 01:00:32,429 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 01:00:32,491 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 01:00:34,670 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 01:00:40,306 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 01:00:45,596 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 01:00:50,788 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 01:00:56,427 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 01:01:01,494 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 01:01:06,852 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferUNDEFINED
+2022-06-25 07:53:04,192 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 07:53:07,963 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 07:53:13,613 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 07:53:18,960 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 07:53:24,197 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 07:53:29,845 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 07:53:34,951 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 07:53:40,496 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 07:53:45,817 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 07:53:45,890 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 07:53:47,941 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 07:53:53,717 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 07:53:59,031 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 07:54:04,267 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 07:54:09,839 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 07:54:14,909 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 07:54:40,315 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 07:59:30,680 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 07:59:33,481 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 07:59:39,252 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 07:59:44,583 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 07:59:49,800 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 07:59:55,417 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:00:00,517 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:00:06,082 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 08:00:11,415 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 08:00:11,445 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 08:00:13,694 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:00:19,307 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:00:24,662 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:00:29,880 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:00:35,489 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:00:40,570 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:01:06,079 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 08:02:31,181 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 08:02:36,367 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:02:42,727 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:03:08,066 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 08:03:08,099 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 08:03:10,102 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:03:15,818 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:03:21,133 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:03:26,368 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:03:32,157 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:03:37,237 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:04:02,682 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 08:05:21,741 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 08:05:24,484 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:05:30,150 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:05:35,473 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:05:40,765 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:05:46,398 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:05:51,479 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:05:57,044 - .\src\test\resources\input\log4j.properties -INFO - User click on �Register for an Affiliate Account� link
+2022-06-25 08:06:12,458 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 08:06:12,487 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 08:06:14,503 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:06:20,187 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:06:25,512 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:06:30,754 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:06:36,404 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:06:41,479 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:06:49,444 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 08:08:01,293 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 08:08:04,518 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:08:10,264 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:08:15,595 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:08:20,839 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:08:26,454 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:08:31,559 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:08:37,071 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Register for an Affiliate Account’ link
+2022-06-25 08:09:07,631 - .\src\test\resources\input\log4j.properties -INFO - user filled affiliate form
+2022-06-25 08:09:12,971 - .\src\test\resources\input\log4j.properties -INFO - User check on About us check box
+2022-06-25 08:09:18,534 - .\src\test\resources\input\log4j.properties -INFO - User click on Continue button
+2022-06-25 08:09:23,630 - .\src\test\resources\input\log4j.properties -INFO - success message is present
+2022-06-25 08:09:29,024 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodPASSED
+2022-06-25 08:09:29,048 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 08:09:31,083 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 08:09:36,756 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 08:09:42,077 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 08:09:47,339 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 08:09:52,926 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 08:09:57,989 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 08:10:12,746 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 10:10:57,858 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-25 10:11:00,858 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 10:11:06,547 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 10:11:11,899 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 10:11:17,199 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 10:11:22,843 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 10:11:27,972 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 10:11:53,433 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-25 10:11:53,512 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 10:11:55,559 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 10:12:01,318 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 10:12:06,627 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 10:12:11,866 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 10:12:17,755 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 10:12:22,848 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 10:12:28,390 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Edit your affiliate information link
+2022-06-25 10:12:33,508 - .\src\test\resources\input\log4j.properties -INFO - user click on Bank Transfer radio button
+2022-06-25 10:12:38,725 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 10:20:00,075 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 10:20:02,958 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 10:20:08,707 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 10:20:14,053 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 10:20:19,295 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 10:20:25,037 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 10:20:30,111 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 10:20:35,702 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Edit your affiliate information link
+2022-06-25 10:20:40,820 - .\src\test\resources\input\log4j.properties -INFO - user click on Bank Transfer radio button
+2022-06-25 10:20:51,047 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferFAILED
+2022-06-25 10:25:22,234 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 10:25:25,189 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 10:25:30,829 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 10:25:36,150 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 10:25:41,395 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 10:25:47,014 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 10:25:52,106 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 10:25:57,698 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Edit your affiliate information link
+2022-06-25 10:26:02,821 - .\src\test\resources\input\log4j.properties -INFO - user click on Bank Transfer radio button
+2022-06-25 10:26:18,311 - .\src\test\resources\input\log4j.properties -INFO - User filled Bank information
+2022-06-25 10:26:23,759 - .\src\test\resources\input\log4j.properties -INFO - User click on Continue button
+2022-06-25 10:26:28,975 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferUNDEFINED
+2022-06-25 10:30:57,887 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-25 10:31:00,728 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-25 10:31:06,450 - .\src\test\resources\input\log4j.properties -INFO - User click on MyAccount
+2022-06-25 10:31:11,788 - .\src\test\resources\input\log4j.properties -INFO - User click on Login
+2022-06-25 10:31:17,029 - .\src\test\resources\input\log4j.properties -INFO - user enter username ahmada@gmail.com and  password 1234567890
+2022-06-25 10:31:22,698 - .\src\test\resources\input\log4j.properties -INFO - User click on Login button
+2022-06-25 10:31:27,790 - .\src\test\resources\input\log4j.properties -INFO - User should be logged in to MyAccount dashboard
+2022-06-25 10:31:33,314 - .\src\test\resources\input\log4j.properties -INFO - User click on ‘Edit your affiliate information link
+2022-06-25 10:31:38,432 - .\src\test\resources\input\log4j.properties -INFO - user click on Bank Transfer radio button
+2022-06-25 10:31:53,956 - .\src\test\resources\input\log4j.properties -INFO - User filled Bank information
+2022-06-25 10:31:59,410 - .\src\test\resources\input\log4j.properties -INFO - User click on Continue button
+2022-06-25 10:32:04,496 - .\src\test\resources\input\log4j.properties -INFO - success message is present
+2022-06-25 10:32:09,884 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank TransferPASSED
