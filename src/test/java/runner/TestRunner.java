@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features = "classpath:feature", //".src\\test\\resources\\feature", // 
 		glue = "step.definition",
-		tags = "@edit",
+		tags = "@DesktopTab",
 		dryRun = false,
 		monochrome = true,
 		strict = true,

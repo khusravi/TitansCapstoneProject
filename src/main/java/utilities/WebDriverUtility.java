@@ -185,10 +185,10 @@ public class WebDriverUtility extends Base {
 //	}
 //	
 //	
-//	public static void moveToElement(WebElement element) {
-//		Actions action = new Actions(driver);
-//		action.moveToElement(element).build().perform();
-//	}
+	public static void moveToElement(WebElement element) {
+		Actions action = new Actions(driver);
+		action.moveToElement(element).build().perform();
+	}
 //	
 //	public static void hardWait() {
 //		try {
@@ -209,6 +209,11 @@ public class WebDriverUtility extends Base {
 		e.printStackTrace();
 	}
 		
+	}
+	
+	public static void mouseHoverOnElemnt(WebElement element ) {
+		Actions action = new Actions(driver);
+		action.moveToElement(element).build().perform();
 	}
 
 }

@@ -120,7 +120,7 @@ public class RetailStepDefinition extends Base{
 //	    }
 //	   logger.info("User should see a success message");
 //	}
-	
+	//Edit your Affiliate info Scenario
 	@When("User click on ‘Edit your affiliate informationlink")
 	public void user_click_on_edit_your_affiliate_informationlink() {
 		retailPage.clickOnEditYourAffiliateLink();
