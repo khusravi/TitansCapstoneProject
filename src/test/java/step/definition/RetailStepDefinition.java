@@ -40,7 +40,6 @@ public class RetailStepDefinition extends Base{
 	public void User_click_on_Login() {
 		retailPage.clickOnLoginOption();
 		logger.info("User click on Login");
-		WebDriverUtility.hardWait();
 	}
 	@And ("User enter username {string} and password {string}")
 	public void User_enter_username_and_password(String email, String password) {
@@ -53,7 +52,6 @@ public class RetailStepDefinition extends Base{
 	public void User_click_on_Login_button() {
 		retailPage.clickOnLoginButton();
 		logger.info("User click on Login button");
-		WebDriverUtility.hardWait();
 	}
 	
 	@Then ("User should be logged in to MyAccount dashboard")
@@ -78,14 +76,13 @@ public class RetailStepDefinition extends Base{
 	public void user_fill_affiliate_form_with_below_information(DataTable dataTable) {
 	  
 		List<Map<String, String>> affiliateForm = dataTable.asMaps(String.class, String.class);
-		WebDriverUtility.hardWait();
 		retailPage.enterCompanyInput(affiliateForm.get(0).get("company"));
 		WebDriverUtility.hardWait();
 		retailPage.enterWebsiteInput(affiliateForm.get(0).get("website"));
 		WebDriverUtility.hardWait();
 		retailPage.enterTaxInput(affiliateForm.get(0).get("taxID"));
 		WebDriverUtility.hardWait();
-		retailPage.selectpaymentMethod(affiliateForm.get(0).get("paymentMethod "));
+		retailPage.selectpaymentMethod(affiliateForm.get(0).get("paymentMethod"));
 		WebDriverUtility.hardWait();
 		retailPage.enterChequePayeeName(affiliateForm.get(0).get("chequePayeeName"));
 		logger.info("user filled affiliate form");
@@ -101,7 +98,7 @@ public class RetailStepDefinition extends Base{
 	}
 	
 	@And("User click on Continue button")
-	public void user_click_on_continue_button() {
+	public void User_click_on_continue_button() {
 		retailPage.clickOnContinueButton();
 		logger.info("User click on Continue button");
 		WebDriverUtility.hardWait();
@@ -130,8 +127,8 @@ public class RetailStepDefinition extends Base{
 		logger.info("User click on ‘Edit your affiliate information link");
 		WebDriverUtility.hardWait();
 	}
-	@When("user click on Bank Transfer radio button")
-	public void user_click_on_bank_transfer_radio_button() {
+	@When("User click on Bank Transfer radio button")
+	public void User_click_on_bank_transfer_radio_button() {
 	    retailPage.clickOnBankTransferButton();
 	    logger.info("user click on Bank Transfer radio button");
 	    WebDriverUtility.hardWait();
@@ -143,8 +140,11 @@ public class RetailStepDefinition extends Base{
 	    retailPage.enterBankName(bankInfoForm.get(0).get("bankName"));
 	    WebDriverUtility.hardWait();
 	    retailPage.enterBankBranchNumber(bankInfoForm.get(0).get("abaNumber"));
+	    WebDriverUtility.hardWait();
 	    retailPage.enterBankSwiftCode(bankInfoForm.get(0).get("swiftCode"));
+	    WebDriverUtility.hardWait();
 		retailPage.enterBankAccountName(bankInfoForm.get(0).get("accountName"));
+		WebDriverUtility.hardWait();
 		retailPage.enterBankAccountNumber(bankInfoForm.get(0).get("accountNumber"));
 		
 		logger.info("User filled Bank information");
@@ -165,6 +165,61 @@ public class RetailStepDefinition extends Base{
 //	}
 	
 	//Edit Account Information Scenario
+	@When("User click on {string} link")
+	public void user_click_on_link(String string) {	
+		retailPage.clickOnEditAccountInfoLink();
+	}
+	
+	@And ("User modify below information")
+	public void User_modify_below_information(DataTable dataTable) {
+		List<Map<String, String>> modifyAccountInfo = dataTable.asMaps(String.class, String.class);
+		WebDriverUtility.hardWait();
+		retailPage.enterFirstNameInput(modifyAccountInfo.get(0).get("firstname"));
+		WebDriverUtility.hardWait();
+		retailPage.enterLastNameInput(modifyAccountInfo.get(0).get("lastName"));
+		WebDriverUtility.hardWait();
+		retailPage.enterEmailInput(modifyAccountInfo.get(0).get("email"));
+		WebDriverUtility.hardWait();
+		retailPage.phoneInput(modifyAccountInfo.get(0).get("telephone"));
+		logger.info("User modified Account information");
+		WebDriverUtility.takeScreenShot();
+		WebDriverUtility.hardWait();
+		
+	}
+	
+//	@And ("User click on continue button")
+//	public void User_click_on_continue_button() {
+//		
+//	}
+	
+	
+//	@Then("user should see a successfull message {string}")
+//	public void user_should_see_a_successfull_message(String expected) {
+//		Assert.assertEquals(expected, retailPage.getSuccessMessage());
+//		logger.info("Account information has been modified successfully");
+//		WebDriverUtility.takeScreenShot();
+//		try {
+//			Thread.sleep(5000);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//	
+//	}
+//	@Then("User should see a message {string}")
+//	public void user_should_see_a_message(String string) {
+//		Assert.assertTrue(retailPage.iSuccessMessagePresent());
+//		logger.info("verified that success message is present");
+//	}
+//	
+	
+	
+	
+	
+	
+	
+	
+	
 
 		
 

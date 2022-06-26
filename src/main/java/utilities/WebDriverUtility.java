@@ -203,7 +203,7 @@ public class WebDriverUtility extends Base {
 		// TODO Auto-generated method stub
 		
 	try {
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 	} catch (InterruptedException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();

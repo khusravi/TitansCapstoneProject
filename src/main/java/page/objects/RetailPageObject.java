@@ -56,12 +56,18 @@ public class RetailPageObject extends Base {
 	@FindBy (xpath = "//input[@value='cheque']")
 	private WebElement chequeButton;
 	
+	@FindBy (xpath = "//input[@value='paypal']")
+	private WebElement paypalButton;
+	
+	@FindBy (xpath = "//input[@value='bank']")
+	private WebElement bankButton;
+	
 	@FindBy (id = "input-cheque")
 	private WebElement chequePayeeNameInput;
 	
 	@FindBy (xpath = "//input[@type='checkbox']")
 	private WebElement aboutUsCheckBox;
-	
+
 	@FindBy (xpath = "//input[@value='Continue']")
 	private WebElement continueButton;
 	
@@ -90,6 +96,30 @@ public class RetailPageObject extends Base {
 	
 	@FindBy (id = "input-bank-account-number")
 	private WebElement bankAccountNumberInput;
+	
+	//Edit your account info Scenario
+	@FindBy (xpath = "//a[text()='Edit your account information']")
+	private WebElement editAccountInfoLink;
+
+	@FindBy (id = "input-firstname")
+	private WebElement firstNameInput;
+	
+	@FindBy (id = "input-lastname")
+	private WebElement lastNameInput;
+	
+	@FindBy (id = "input-email")
+	private WebElement emailInput;
+	
+	@FindBy (id = "input-telephone")
+	private WebElement phoneInput;
+	
+	@FindBy (xpath = "//div[@class='alert alert-success alert-dismissible']")
+	private WebElement successfullAccountUpdateMessage;
+
+	
+	
+	
+	
 	
 	///repeated coded same as Register Affiliate Scenario
 	
@@ -177,16 +207,21 @@ public class RetailPageObject extends Base {
 //	}
 	public void selectpaymentMethod(String paymentType) {
 		if (paymentType.trim().equalsIgnoreCase("cheque")) {
-			if (!chequeButton.isSelected()) {
+			if (chequeButton.isSelected()) {
 				chequeButton.click();
+
+		} else if (paymentType.trim().equalsIgnoreCase("paypal")) {
+			paypalButton.click();
+		} else {
+			bankButton.click();
 			}
 		}
+			
 	}
-//		} else if (paymentType.trim().equalsIgnoreCase("paypal")) {
-//			paypalButton.click();
-//		} else
-//			bankButton.click();
-//	}
+				
+
+//	@FindBy (xpath = "//input[@value='cheque']")
+//	private WebElement chequeButton;
 	
 	
 	public void enterChequePayeeName(String chequePayeeValue) {
@@ -239,11 +274,42 @@ public class RetailPageObject extends Base {
 	}
 	
 //	public void clickOnContinueBtn() {
-//		continueBtn.click();
+//	continueBtn.click();
+//}
+//
+//public boolean isSuccessMessagePresent() {
+//	if(isSuccessMessagePresent.isDisplayed()) {
+//		return true;
+//	}else {
+//		return false;
 //	}
-//	
-//	public boolean isSuccessMessagePresent() {
-//		if(isSuccessMessagePresent.isDisplayed()) {
+//}
+	
+	//editAccInfo Scenario
+	public void clickOnEditAccountInfoLink() {
+		editAccountInfoLink.click();
+	}
+	
+	public void enterFirstNameInput(String firstNameValue) {
+		firstNameInput.sendKeys(firstNameValue);
+	}
+	public void enterLastNameInput(String lastNameValue) {
+		lastNameInput.sendKeys(lastNameValue);
+	}
+	public void enterEmailInput(String emailValue) {
+		emailInput.sendKeys(emailValue);
+	}
+	public void phoneInput(String phoneValue) {
+		phoneInput.sendKeys(phoneValue);
+	}
+	
+	public String getSuccessMessage() {
+		String actualMessage = successfullAccountUpdateMessage.getText();
+		return actualMessage;
+	}
+
+//	public boolean iSuccessMessagePresent() {
+//		if(successMessagePresent.isDisplayed()) {
 //			return true;
 //		}else {
 //			return false;
