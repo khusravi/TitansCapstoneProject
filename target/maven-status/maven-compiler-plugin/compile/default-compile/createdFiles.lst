@@ -1,4 +1,6 @@
 page\objects\HomePageObject.class
 utilities\WebDriverUtility.class
 core\Base.class
+utilities\CucumberReportingConfig.class
+page\objects\DesktopPageObject.class
 page\objects\RetailPageObject.class

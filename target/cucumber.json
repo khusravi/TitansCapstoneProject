@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2597232000,
+              "duration": 2600160800,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 2207190100,
+              "duration": 4165857800,
               "status": "passed"
             },
             "line": 5,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 2387556000,
+              "duration": 2708036200,
               "status": "passed"
             },
             "line": 6,
@@ -48,11 +48,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-26T17:25:13.544Z",
+        "start_timestamp": "2022-06-27T06:07:30.577Z",
         "before": [
           {
             "result": {
-              "duration": 3142085700,
+              "duration": 3036724900,
               "status": "passed"
             },
             "match": {
@@ -60,14 +60,14 @@
             }
           }
         ],
-        "line": 8,
-        "name": "User verify all items are present in Desktops tab",
+        "line": 12,
+        "name": "User add HP LP 3065 from Desktops tab to the cart",
         "description": "",
-        "id": "desktops-tab;user-verify-all-items-are-present-in-desktops-tab",
+        "id": "desktops-tab;user-add-hp-lp-3065-from-desktops-tab-to-the-cart",
         "after": [
           {
             "result": {
-              "duration": 199945700,
+              "duration": 223400000,
               "status": "passed"
             },
             "match": {
@@ -80,13 +80,61 @@
         "steps": [
           {
             "result": {
-              "duration": 2712319500,
+              "duration": 3273199100,
               "status": "passed"
             },
-            "line": 9,
-            "name": "User should see all items are present in Desktop page",
+            "line": 13,
+            "name": "User click ADD TO CART option on HP LP3065 item",
             "match": {
-              "location": "step.definition.DesktopPageStepDefinition.user_should_see_all_items_are_present_in_desktop_page()"
+              "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_option_on_hp_lp3065_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 183095700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User select quantity \u00271\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u00271\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "step.definition.DesktopPageStepDefinition.user_select_quantity(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2079898600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User click add to Cart button",
+            "match": {
+              "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 307071400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User should see a message \u0027Success: you have added HP LP 3065 to your shopping cart!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Success: you have added HP LP 3065 to your shopping cart!\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "step.definition.DesktopPageStepDefinition.user_should_see_a_message(java.lang.String)"
             },
             "keyword": "Then "
           }

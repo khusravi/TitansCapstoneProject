@@ -597,3 +597,115 @@
 2022-06-26 10:25:24,372 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
 2022-06-26 10:25:24,398 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
 2022-06-26 10:25:26,887 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tabPASSED
+2022-06-26 10:40:15,144 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 10:40:18,094 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 10:40:20,944 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 10:40:30,149 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 10:40:32,290 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartUNDEFINED
+2022-06-26 14:04:03,858 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 14:04:06,827 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 14:04:09,613 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 14:04:11,999 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 14:04:15,832 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 14:04:18,096 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartUNDEFINED
+2022-06-26 16:08:38,518 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:08:41,387 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:08:44,243 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:09:06,539 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:17:02,915 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:17:05,769 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:17:08,578 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:17:30,915 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:19:36,857 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:19:40,098 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:19:42,789 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:20:05,064 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:42:00,487 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:42:03,510 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:42:06,257 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:42:28,528 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:49:52,005 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:49:54,769 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:49:57,596 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:49:59,997 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 16:50:03,352 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 16:50:05,552 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 16:50:06,100 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:55:50,655 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:55:53,606 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:55:56,475 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:55:58,965 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 16:56:02,314 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 16:56:04,516 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 16:56:04,998 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 16:59:09,919 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 16:59:12,812 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 16:59:15,562 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 16:59:18,099 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 16:59:21,417 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 16:59:23,606 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 16:59:24,089 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:35:03,119 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:35:07,931 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:35:10,737 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:35:13,099 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:35:16,250 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 22:35:18,456 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 22:35:18,881 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:37:47,070 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:37:50,141 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:37:52,817 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:37:55,203 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:37:58,535 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 22:38:00,761 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 22:38:01,172 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:40:42,125 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:40:44,831 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:40:47,540 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:40:50,475 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:40:53,594 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 22:40:55,836 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 22:40:56,089 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartUNDEFINED
+2022-06-26 22:43:59,704 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:44:02,619 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:44:05,499 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:44:07,873 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:44:11,491 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 22:44:13,692 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 22:44:14,137 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:47:13,258 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:47:16,076 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:47:18,929 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:47:41,249 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:48:23,751 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:48:26,723 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:48:29,492 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:48:43,160 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:48:45,315 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 22:49:41,001 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 22:49:44,110 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 22:49:48,699 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 22:49:51,154 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 22:49:54,418 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 22:49:56,645 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 22:50:01,033 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 23:05:34,615 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 23:05:37,625 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 23:05:42,407 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 23:06:04,713 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-26 23:06:38,631 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 23:06:41,716 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 23:06:46,397 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 23:06:48,962 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 23:06:52,212 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 23:06:54,416 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 23:06:56,577 - .\src\test\resources\input\log4j.properties -INFO - User verified seeing success message 
+2022-06-26 23:06:56,991 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-06-26 23:07:30,785 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-26 23:07:33,799 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-06-26 23:07:38,466 - .\src\test\resources\input\log4j.properties -INFO - User moved cursor on Desktops tab
+2022-06-26 23:07:41,172 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all desktops option
+2022-06-26 23:07:44,461 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-26 23:07:46,648 - .\src\test\resources\input\log4j.properties -INFO - user selected quantity 1
+2022-06-26 23:07:48,813 - .\src\test\resources\input\log4j.properties -INFO - User verified seeing success message 
+2022-06-26 23:07:49,262 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
