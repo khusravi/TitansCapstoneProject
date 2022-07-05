@@ -48,11 +48,11 @@ public class WebDriverUtility extends Base {
 //	 * @param element
 //	 * @param text
 //	 */
-//	public static void selectByVisibleText(WebElement element, String text) {
-//		Select select = new Select(element);
-//		select.selectByVisibleText(text);
-//
-//	}
+	public static void selectByVisibleText(WebElement element, String text) {
+		Select select = new Select(element);
+		select.selectByVisibleText(text);
+
+	}
 //
 //	/**
 //	 * This method will select value from static Dropdown by index

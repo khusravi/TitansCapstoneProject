@@ -709,3 +709,302 @@
 2022-06-26 23:07:46,648 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
 2022-06-26 23:07:48,813 [main] INFO .\src\test\resources\input\log4j.properties - User verified seeing success message 
 2022-06-26 23:07:49,262 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-06-26 23:14:15,914 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-26 23:14:18,869 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-26 23:14:23,590 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-26 23:14:26,015 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-26 23:14:28,234 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-27 00:06:04,795 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-27 00:06:07,758 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 00:06:12,482 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 00:06:14,928 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 00:06:18,055 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-27 00:06:20,298 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-06-27 00:06:24,627 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartFAILED
+2022-06-27 00:08:24,112 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-27 00:08:27,344 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 00:08:31,832 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 00:08:34,735 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 00:08:37,950 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-06-27 00:08:40,141 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-06-27 00:08:44,328 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-06-27 00:08:46,816 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-06-27 01:06:40,795 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-27 01:06:43,804 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:06:48,609 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:06:51,215 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:06:53,440 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-06-27 01:09:05,430 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-27 01:09:08,186 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:09:12,992 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:09:15,503 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:09:17,768 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-06-27 01:10:59,813 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-27 01:11:02,701 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:11:07,476 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:11:09,972 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:11:12,223 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-06-27 01:11:12,302 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 01:11:14,312 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:11:19,041 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:11:21,461 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:11:23,690 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabUNDEFINED
+2022-06-27 01:12:31,154 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 01:12:33,893 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:12:50,904 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabFAILED
+2022-06-27 01:13:21,849 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 01:13:24,793 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:13:29,618 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:13:32,131 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:13:34,343 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabUNDEFINED
+2022-06-27 01:45:47,543 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 01:45:50,847 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 01:45:55,502 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 01:45:57,907 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 01:46:00,132 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-06-27 02:54:50,191 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 02:54:53,459 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 02:54:58,142 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 02:55:00,632 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 02:55:02,856 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabFAILED
+2022-06-27 02:58:41,180 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-27 02:58:44,141 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 02:58:48,925 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-06-27 02:58:51,363 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-06-27 02:58:57,313 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-06-27 12:44:33,031 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-27 12:44:36,893 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 12:44:39,765 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-27 17:08:17,033 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-27 17:08:20,620 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 17:08:49,181 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-27 17:11:51,822 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-27 17:11:54,704 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 17:12:23,387 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-27 17:13:37,305 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-27 17:13:40,214 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-06-27 17:13:43,068 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-02 17:08:09,527 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-02 17:08:14,317 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 17:08:43,093 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-02 17:08:43,143 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-02 17:08:45,420 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 17:08:49,502 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-07-02 17:08:49,520 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-02 17:08:51,725 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 17:08:55,818 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-07-02 17:08:55,833 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-02 17:08:59,768 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 17:09:03,058 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'UNDEFINED
+2022-07-02 19:15:56,219 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-02 19:15:59,589 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:16:08,591 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-02 19:16:11,159 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-02 19:16:11,206 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-02 19:16:13,505 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:16:17,242 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-07-02 19:16:17,261 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-02 19:16:19,523 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:16:23,442 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-07-02 19:16:23,463 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-02 19:16:25,673 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:16:29,399 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'UNDEFINED
+2022-07-02 19:23:20,573 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-02 19:23:23,837 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:23:32,270 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-02 19:23:34,857 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-02 19:23:35,057 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-02 19:23:37,505 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:23:41,197 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-07-02 19:23:41,220 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-02 19:23:43,340 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:23:47,047 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-07-02 19:23:47,066 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-02 19:23:49,237 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-02 19:23:52,679 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'UNDEFINED
+2022-07-05 08:59:54,190 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab Started
+2022-07-05 09:00:00,089 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:00:05,138 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:00:07,656 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:00:11,802 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-07-05 09:00:11,855 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-07-05 09:00:11,891 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-07-05 09:00:11,927 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-07-05 09:00:11,958 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-07-05 09:00:11,984 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-07-05 09:00:12,014 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-07-05 09:00:12,043 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-07-05 09:00:12,075 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-07-05 09:00:12,104 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-07-05 09:00:12,131 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-07-05 09:00:12,161 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-07-05 09:00:12,193 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-07-05 09:00:12,225 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-07-05 09:00:14,692 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-05 09:00:14,737 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-07-05 09:00:16,764 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:00:22,065 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:00:24,462 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:00:27,889 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-07-05 09:00:30,267 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:00:34,532 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-05 09:00:37,092 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-07-05 09:00:37,111 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 09:00:39,415 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:00:44,658 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:00:49,292 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:00:54,389 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:01:18,868 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-05 09:01:18,938 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-07-05 09:01:21,236 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:01:26,102 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:01:28,895 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:01:33,520 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Canon EOS 5D item
+2022-07-05 09:01:33,617 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on write a review link
+2022-07-05 09:01:34,057 [main] INFO .\src\test\resources\input\log4j.properties - user filled the review Information
+2022-07-05 09:01:36,230 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue Button
+2022-07-05 09:01:36,233 [main] INFO .\src\test\resources\input\log4j.properties - success message availibility varified 
+2022-07-05 09:01:36,500 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-07-05 09:22:00,796 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab Started
+2022-07-05 09:22:04,000 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:22:08,684 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:22:11,231 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:22:15,344 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-07-05 09:22:15,376 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-07-05 09:22:15,423 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-07-05 09:22:15,446 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-07-05 09:22:15,471 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-07-05 09:22:15,494 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-07-05 09:22:15,519 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-07-05 09:22:15,542 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-07-05 09:22:15,567 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-07-05 09:22:15,596 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-07-05 09:22:15,620 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-07-05 09:22:15,644 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-07-05 09:22:15,671 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-07-05 09:22:15,697 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-07-05 09:22:18,093 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-05 09:22:18,144 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-07-05 09:22:22,267 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:22:26,755 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:22:29,236 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:22:32,464 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-07-05 09:22:34,661 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:22:38,841 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-05 09:22:41,262 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-07-05 09:22:41,278 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 09:22:43,510 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:22:48,257 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:22:50,649 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:22:57,095 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:23:21,426 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-05 09:23:21,458 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-07-05 09:23:23,604 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:23:28,247 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:23:32,666 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:23:35,852 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Canon EOS 5D item
+2022-07-05 09:23:35,934 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on write a review link
+2022-07-05 09:23:36,391 [main] INFO .\src\test\resources\input\log4j.properties - user filled the review Information
+2022-07-05 09:23:38,532 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue Button
+2022-07-05 09:23:38,533 [main] INFO .\src\test\resources\input\log4j.properties - success message availibility varified 
+2022-07-05 09:23:38,721 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-07-05 09:27:42,635 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab Started
+2022-07-05 09:27:45,591 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:27:50,417 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:27:52,874 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:27:57,017 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-07-05 09:27:57,048 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-07-05 09:27:57,075 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-07-05 09:27:57,103 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-07-05 09:27:57,130 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-07-05 09:27:57,157 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-07-05 09:27:57,182 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-07-05 09:27:57,206 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-07-05 09:27:57,231 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-07-05 09:27:57,259 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-07-05 09:27:57,283 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-07-05 09:27:57,309 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-07-05 09:27:57,339 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-07-05 09:27:57,366 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-07-05 09:27:59,760 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-05 09:27:59,826 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-07-05 09:28:01,982 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:28:06,662 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:28:09,280 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:28:12,434 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-07-05 09:28:14,643 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:28:18,815 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-05 09:28:21,311 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-07-05 09:28:21,333 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 09:28:23,473 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:28:28,245 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:28:30,740 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:28:36,036 [main] INFO .\src\test\resources\input\log4j.properties - User select color from dropdown 'Red'
+2022-07-05 09:28:38,207 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:28:42,589 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-05 09:28:42,670 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-07-05 09:28:44,721 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:28:49,452 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:28:51,837 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:28:55,085 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Canon EOS 5D item
+2022-07-05 09:28:55,186 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on write a review link
+2022-07-05 09:28:55,672 [main] INFO .\src\test\resources\input\log4j.properties - user filled the review Information
+2022-07-05 09:28:57,786 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue Button
+2022-07-05 09:28:57,788 [main] INFO .\src\test\resources\input\log4j.properties - success message availibility varified 
+2022-07-05 09:28:57,973 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-07-05 09:47:18,870 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab Started
+2022-07-05 09:47:21,853 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:47:26,559 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:47:29,139 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:47:33,260 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-07-05 09:47:33,288 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-07-05 09:47:33,314 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-07-05 09:47:33,340 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-07-05 09:47:33,367 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-07-05 09:47:33,394 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-07-05 09:47:33,418 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-07-05 09:47:33,443 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-07-05 09:47:33,470 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-07-05 09:47:33,497 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-07-05 09:47:33,523 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-07-05 09:47:33,550 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-07-05 09:47:33,581 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-07-05 09:47:33,610 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-07-05 09:47:36,011 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-05 09:47:36,062 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-07-05 09:47:38,027 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:47:42,874 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:47:45,283 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:47:48,752 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on ADD TO CART option on HP LP3065 item
+2022-07-05 09:47:50,972 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:47:55,177 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-05 09:47:57,638 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cartPASSED
+2022-07-05 09:47:57,656 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 09:47:59,844 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:48:04,640 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:48:07,255 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:48:12,675 [main] INFO .\src\test\resources\input\log4j.properties - User select color from dropdown 'Red'
+2022-07-05 09:48:14,851 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 09:48:19,183 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-05 09:48:19,212 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-07-05 09:48:21,308 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:48:26,111 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:48:28,581 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 09:48:31,851 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Canon EOS 5D item
+2022-07-05 09:48:31,955 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on write a review link
+2022-07-05 09:48:32,438 [main] INFO .\src\test\resources\input\log4j.properties - user filled the review Information
+2022-07-05 09:48:34,553 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue Button
+2022-07-05 09:48:34,554 [main] INFO .\src\test\resources\input\log4j.properties - success message availibility varified 
+2022-07-05 09:48:34,715 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-07-05 09:52:06,587 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 09:52:09,298 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 09:52:14,088 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 09:52:36,397 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-05 10:14:55,491 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-07-05 10:14:58,527 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 10:15:03,309 [main] INFO .\src\test\resources\input\log4j.properties - User moved cursor on Desktops tab
+2022-07-05 10:15:05,833 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops option
+2022-07-05 10:15:11,321 [main] INFO .\src\test\resources\input\log4j.properties - User select color from dropdown 'Red'
+2022-07-05 10:15:13,541 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
+2022-07-05 10:15:15,675 [main] INFO .\src\test\resources\input\log4j.properties - User see Succes: you have added Canon EOS 5D to your shopping cart!
+2022-07-05 10:15:18,107 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartPASSED

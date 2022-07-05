@@ -1,6 +1,6 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
         "line": 3,
@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2600160800,
+              "duration": 2688592800,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 4165857800,
+              "duration": 4189501600,
               "status": "passed"
             },
             "line": 5,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 2708036200,
+              "duration": 2515270900,
               "status": "passed"
             },
             "line": 6,
@@ -48,11 +48,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-27T06:07:30.577Z",
+        "start_timestamp": "2022-07-05T17:14:55.284Z",
         "before": [
           {
             "result": {
-              "duration": 3036724900,
+              "duration": 3082572600,
               "status": "passed"
             },
             "match": {
@@ -60,14 +60,14 @@
             }
           }
         ],
-        "line": 12,
-        "name": "User add HP LP 3065 from Desktops tab to the cart",
+        "line": 17,
+        "name": "User add Canon EOS 5D from Desktops tab to the cart",
         "description": "",
-        "id": "desktops-tab;user-add-hp-lp-3065-from-desktops-tab-to-the-cart",
+        "id": "desktops-tab;user-add-canon-eos-5d-from-desktops-tab-to-the-cart",
         "after": [
           {
             "result": {
-              "duration": 223400000,
+              "duration": 202455000,
               "status": "passed"
             },
             "match": {
@@ -80,22 +80,34 @@
         "steps": [
           {
             "result": {
-              "duration": 3273199100,
+              "duration": 3319219700,
               "status": "passed"
             },
-            "line": 13,
-            "name": "User click ADD TO CART option on HP LP3065 item",
+            "line": 18,
+            "name": "User click ADD TO CART option on Canon EOS 5D item",
             "match": {
-              "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_option_on_hp_lp3065_item()"
+              "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_option_on_canon_eos_5d_item()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 183095700,
+              "duration": 2158858100,
               "status": "passed"
             },
-            "line": 14,
+            "line": 19,
+            "name": "User select color from dropdown Red",
+            "match": {
+              "location": "step.definition.DesktopPageStepDefinition.user_select_color_from_dropdown_red()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 217193000,
+              "status": "passed"
+            },
+            "line": 20,
             "name": "User select quantity \u00271\u0027",
             "match": {
               "arguments": [
@@ -110,10 +122,10 @@
           },
           {
             "result": {
-              "duration": 2079898600,
+              "duration": 2065894300,
               "status": "passed"
             },
-            "line": 15,
+            "line": 21,
             "name": "User click add to Cart button",
             "match": {
               "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_button()"
@@ -122,19 +134,13 @@
           },
           {
             "result": {
-              "duration": 307071400,
+              "duration": 2289324200,
               "status": "passed"
             },
-            "line": 16,
-            "name": "User should see a message \u0027Success: you have added HP LP 3065 to your shopping cart!\u0027",
+            "line": 22,
+            "name": "User should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!’",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Success: you have added HP LP 3065 to your shopping cart!\u0027",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definition.DesktopPageStepDefinition.user_should_see_a_message(java.lang.String)"
+              "location": "step.definition.DesktopPageStepDefinition.user_should_see_a_message_success_you_have_added_canon_eos_5d_to_your_shopping_cart()"
             },
             "keyword": "Then "
           }
