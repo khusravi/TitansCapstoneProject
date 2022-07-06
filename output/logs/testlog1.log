@@ -1008,3 +1008,187 @@
 2022-07-05 10:15:13,541 [main] INFO .\src\test\resources\input\log4j.properties - user selected quantity 1
 2022-07-05 10:15:15,675 [main] INFO .\src\test\resources\input\log4j.properties - User see Succes: you have added Canon EOS 5D to your shopping cart!
 2022-07-05 10:15:18,107 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartPASSED
+2022-07-05 11:35:13,042 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 11:35:16,101 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 11:35:24,860 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 11:35:27,278 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 11:39:05,898 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 11:39:09,067 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 11:39:17,882 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 11:39:20,524 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 12:56:03,510 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 12:56:06,896 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 12:56:20,091 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 12:56:22,719 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 12:57:57,757 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 12:58:01,220 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 12:58:14,286 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 12:58:16,966 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 13:04:30,490 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:04:33,895 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:04:46,846 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:04:49,418 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-05 13:19:37,194 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:19:40,529 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:19:52,916 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:19:55,378 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-05 13:24:23,283 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:24:26,378 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:24:39,208 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:24:43,759 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 13:28:03,276 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:28:06,042 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:28:20,214 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:28:22,646 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-05 13:32:40,003 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:32:43,002 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:32:55,519 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:32:57,956 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-07-05 13:34:52,114 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:34:55,693 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:35:08,231 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:35:10,691 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 13:39:05,107 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:39:08,234 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:39:08,765 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 13:41:53,707 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:41:56,866 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:42:10,379 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:42:21,199 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-07-05 13:45:40,551 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:45:43,498 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:45:56,022 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:46:06,749 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-05 13:51:22,951 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-05 13:51:25,936 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-05 13:51:40,150 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-05 13:51:50,956 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-06 12:49:35,537 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 12:49:40,484 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 12:49:46,843 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-07-06 12:59:24,355 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 12:59:27,278 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 12:59:54,807 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:10:22,736 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:10:25,781 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:10:57,330 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:15:21,484 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:15:24,467 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:15:50,177 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:16:56,080 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:16:58,916 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:17:34,575 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:20:48,640 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:20:51,714 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:21:31,494 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:24:15,731 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:24:18,572 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:24:58,314 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:28:47,509 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:28:50,355 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:29:30,056 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:31:38,860 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:31:41,794 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:32:21,477 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:34:01,555 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:34:04,642 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:34:44,296 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:42:21,093 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:42:23,910 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:43:03,616 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonFAILED
+2022-07-06 13:43:46,227 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 13:43:48,904 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:44:10,927 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-07-06 13:46:16,636 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-06 13:46:19,623 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:46:26,871 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-07-06 13:50:51,759 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-06 13:50:54,743 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:51:02,291 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-07-06 13:52:49,596 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-06 13:52:52,344 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:52:59,554 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'UNDEFINED
+2022-07-06 13:58:00,061 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-06 13:58:03,172 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 13:58:12,170 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'PASSED
+2022-07-06 14:00:36,843 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-06 14:00:39,836 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:00:52,766 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-06 14:01:03,431 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-06 14:01:03,462 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 14:01:05,754 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:01:21,679 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-07-06 14:01:21,700 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-06 14:01:23,739 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:01:29,249 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-07-06 14:01:29,269 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-06 14:01:31,695 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:01:38,187 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'PASSED
+2022-07-06 14:26:31,273 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-06 14:26:33,960 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:26:36,764 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:26:37,108 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:26:40,223 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook
+2022-07-06 14:26:46,461 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-06 14:26:48,793 [main] INFO .\src\test\resources\input\log4j.properties - Item was added and shown in cart
+2022-07-06 14:26:50,939 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-07-06 14:26:53,054 [main] INFO .\src\test\resources\input\log4j.properties - user removed item from cart
+2022-07-06 14:26:57,110 [main] INFO .\src\test\resources\input\log4j.properties - User varified that item was removed from cart
+2022-07-06 14:26:57,300 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-06 14:26:57,331 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 14:26:59,352 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:27:02,175 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:27:02,503 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:27:04,573 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook product comparison icon
+2022-07-06 14:27:06,647 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air product comparison icon
+2022-07-06 14:27:08,998 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Product comparison link
+2022-07-06 14:27:11,089 [main] INFO .\src\test\resources\input\log4j.properties - User varified Product Comparison Chart is present
+2022-07-06 14:27:13,282 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-07-06 14:27:13,305 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-06 14:27:15,457 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:27:18,261 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:27:18,595 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:27:20,683 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on heart icon to add specified laptop to wish list
+2022-07-06 14:27:20,809 [main] INFO .\src\test\resources\input\log4j.properties - User received adding to wish list requirment message
+2022-07-06 14:27:20,998 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-07-06 14:27:21,016 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-06 14:27:23,013 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:27:25,828 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:27:26,172 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:27:29,402 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBookPro
+2022-07-06 14:27:29,452 [main] INFO .\src\test\resources\input\log4j.properties - User varified price tag is present on UI
+2022-07-06 14:27:29,640 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'PASSED
+2022-07-06 14:36:05,759 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-07-06 14:36:08,737 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:36:11,535 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:36:11,854 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:36:14,996 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook
+2022-07-06 14:36:21,298 [main] INFO .\src\test\resources\input\log4j.properties - Success: You have added MacBook to your shopping cart! equals to Success: You have added MacBook to your shopping cart!
+2022-07-06 14:36:23,572 [main] INFO .\src\test\resources\input\log4j.properties - Item was added and shown in cart
+2022-07-06 14:36:25,656 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-07-06 14:36:27,754 [main] INFO .\src\test\resources\input\log4j.properties - user removed item from cart
+2022-07-06 14:36:31,831 [main] INFO .\src\test\resources\input\log4j.properties - User varified that item was removed from cart
+2022-07-06 14:36:32,246 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-06 14:36:32,276 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison Started
+2022-07-06 14:36:34,265 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:36:37,117 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:36:37,453 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:36:39,537 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook product comparison icon
+2022-07-06 14:36:41,620 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air product comparison icon
+2022-07-06 14:36:43,965 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Product comparison link
+2022-07-06 14:36:46,067 [main] INFO .\src\test\resources\input\log4j.properties - User varified Product Comparison Chart is present
+2022-07-06 14:36:48,483 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-07-06 14:36:48,501 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list Started
+2022-07-06 14:36:50,350 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:36:53,081 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:36:53,397 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:36:55,479 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on heart icon to add specified laptop to wish list
+2022-07-06 14:36:55,588 [main] INFO .\src\test\resources\input\log4j.properties - User received adding to wish list requirment message
+2022-07-06 14:36:58,123 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-07-06 14:36:58,146 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000' Started
+2022-07-06 14:37:00,099 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-07-06 14:37:02,841 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop &NoteBook tab
+2022-07-06 14:37:03,213 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop &NoteBook option
+2022-07-06 14:37:06,727 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBookPro
+2022-07-06 14:37:06,772 [main] INFO .\src\test\resources\input\log4j.properties - User varified price tag is present on UI
+2022-07-06 14:37:09,213 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is '2000'PASSED
