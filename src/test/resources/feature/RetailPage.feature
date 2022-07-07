@@ -4,11 +4,11 @@ Feature: Rtail page
     Given User is on Retail website
     And User click on MyAccount
     When User click on Login
-    And User enter username 'aaa@tek.com' and password '1234'
+    And User enter username 'muhammad.khusravi@tekschool.us' and password '1234567890'
     And User click on Login button
     Then User should be logged in to MyAccount dashboard
 
-	@edit
+	@Retail
   Scenario: Register as an Affiliate user with Cheque Payment Method
     When User click on ‘Register for an Affiliate Account’ link
     And User fill affiliate form with below information
@@ -18,7 +18,7 @@ Feature: Rtail page
     And User click on Continue button
     Then User should see a success message
 
-	@edit
+	@Retail
   Scenario: Edit your affiliate information from Cheque payment method to Bank Transfer
     When User click on ‘Edit your affiliate informationlink
     And User click on Bank Transfer radio button
@@ -28,7 +28,7 @@ Feature: Rtail page
     And User click on Continue button
     Then User should see a success message
 
-  @edit
+  @Retail
   Scenario: Edit your account Information
     When User click on 'Edit your account information' link
     And User modify below information

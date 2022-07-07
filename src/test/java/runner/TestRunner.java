@@ -11,7 +11,7 @@ import utilities.CucumberReportingConfig;
 @CucumberOptions(
 		features = "classpath:feature", //".src\\test\\resources\\feature", // 
 		glue = "step.definition",
-		tags = "@LapTop",
+		tags = "@Retail",
 		dryRun = false,
 		monochrome = true,
 		strict = true,

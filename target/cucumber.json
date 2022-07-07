@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2738869800,
+              "duration": 2684172100,
               "status": "passed"
             },
             "line": 4,
@@ -23,36 +23,82 @@
           },
           {
             "result": {
-              "duration": 144613500,
+              "duration": 2129033500,
               "status": "passed"
             },
             "line": 5,
-            "name": "User click on Laptop \u0026NoteBook tab",
+            "name": "User click on MyAccount",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_laptop_note_book_tab()"
+              "location": "step.definition.RetailStepDefinition.User_click_on_MyAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 265292200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2333717600,
+              "duration": 2467328700,
               "status": "passed"
             },
-            "line": 6,
-            "name": "User click on Show all Laptop \u0026NoteBook option",
+            "line": 7,
+            "name": "User enter username \u0027muhammad.khusravi@tekschool.us\u0027 and password \u00271234567890\u0027",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_show_all_laptop_note_book_option()"
+              "arguments": [
+                {
+                  "val": "\u0027muhammad.khusravi@tekschool.us\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u00271234567890\u0027",
+                  "offset": 66
+                }
+              ],
+              "location": "step.definition.RetailStepDefinition.User_enter_username_and_password(java.lang.String,java.lang.String)"
             },
             "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 337443900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2225554000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_should_be_logged_in_to_MyAccount_dashboard()"
+            },
+            "keyword": "Then "
           }
         ]
       },
       {
-        "start_timestamp": "2022-07-06T21:36:05.566Z",
+        "start_timestamp": "2022-07-07T07:42:05.806Z",
         "before": [
           {
             "result": {
-              "duration": 3004607300,
+              "duration": 2987771900,
               "status": "passed"
             },
             "match": {
@@ -60,14 +106,14 @@
             }
           }
         ],
-        "line": 9,
-        "name": "Add and Remove a Mac book from Cart",
+        "line": 12,
+        "name": "Register as an Affiliate user with Cheque Payment Method",
         "description": "",
-        "id": "laptop-\u0026-notebooks;add-and-remove-a-mac-book-from-cart",
+        "id": "rtail-page;register-as-an-affiliate-user-with-cheque-payment-method",
         "after": [
           {
             "result": {
-              "duration": 196474700,
+              "duration": 221355900,
               "status": "passed"
             },
             "match": {
@@ -80,113 +126,88 @@
         "steps": [
           {
             "result": {
-              "duration": 3141564600,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "User click on MacBook item",
-            "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_mac_book_item()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2153440900,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "User click add to Cart button",
-            "match": {
-              "location": "step.definition.DesktopPageStepDefinition.user_click_add_to_cart_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 4329932900,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "User should see a message \u0027Success: You have added MacBook to your shopping cart!\u0027",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Success: You have added MacBook to your shopping cart!\u0027",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definition.DesktopPageStepDefinition.user_should_see_a_message(java.lang.String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2076056900,
+              "duration": 2372642400,
               "status": "passed"
             },
             "line": 13,
-            "name": "item should be added and cart should show \u00271 item(s) - $602.00\u0027",
+            "name": "User click on ‘Register for an Affiliate Account’ link",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u00271 item(s) - $602.00\u0027",
-                  "offset": 42
-                }
-              ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.item_should_be_added_and_cart_should_show(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.user_click_on_register_for_an_affiliate_account_link()"
             },
-            "keyword": "And "
+            "keyword": "When "
           },
           {
             "result": {
-              "duration": 2086586800,
+              "duration": 10894349200,
               "status": "passed"
             },
             "line": 14,
-            "name": "User click on cart option",
+            "name": "User fill affiliate form with below information",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_cart_option()"
+              "location": "step.definition.RetailStepDefinition.user_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "company",
+                  "website",
+                  "taxID",
+                  "paymentMethod",
+                  "chequePayeeName"
+                ]
+              },
+              {
+                "cells": [
+                  "TEK",
+                  "tekschool.us",
+                  "123456",
+                  "Cheque",
+                  "TEK User"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2154104400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User check on About us check box",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.user_check_on_about_us_check_box()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 2098970500,
+              "duration": 2621892200,
               "status": "passed"
             },
-            "line": 15,
-            "name": "user click on red X button to remove the item from cart",
+            "line": 18,
+            "name": "User click on Continue button",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_red_x_button_to_remove_the_item_from_cart()"
+              "location": "step.definition.RetailStepDefinition.User_click_on_continue_button()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 2277488400,
+              "duration": 2247503400,
               "status": "passed"
             },
-            "line": 16,
-            "name": "item should be removed and cart should show \u00270 item(s)\u0027",
+            "line": 19,
+            "name": "User should see a success message",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u00270 item(s)\u0027",
-                  "offset": 44
-                }
-              ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.item_should_be_removed_and_cart_should_show(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.user_should_see_a_success_message()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@LapTop"
-          },
-          {
-            "name": "@AddRemove"
+            "name": "@Retail"
           }
         ]
       },
@@ -199,7 +220,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2753784900,
+              "duration": 2598247200,
               "status": "passed"
             },
             "line": 4,
@@ -211,36 +232,82 @@
           },
           {
             "result": {
-              "duration": 145575100,
+              "duration": 2111944700,
               "status": "passed"
             },
             "line": 5,
-            "name": "User click on Laptop \u0026NoteBook tab",
+            "name": "User click on MyAccount",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_laptop_note_book_tab()"
+              "location": "step.definition.RetailStepDefinition.User_click_on_MyAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 286234800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2347783200,
+              "duration": 2493104000,
               "status": "passed"
             },
-            "line": 6,
-            "name": "User click on Show all Laptop \u0026NoteBook option",
+            "line": 7,
+            "name": "User enter username \u0027muhammad.khusravi@tekschool.us\u0027 and password \u00271234567890\u0027",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_show_all_laptop_note_book_option()"
+              "arguments": [
+                {
+                  "val": "\u0027muhammad.khusravi@tekschool.us\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u00271234567890\u0027",
+                  "offset": 66
+                }
+              ],
+              "location": "step.definition.RetailStepDefinition.User_enter_username_and_password(java.lang.String,java.lang.String)"
             },
             "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 406715800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2266172500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_should_be_logged_in_to_MyAccount_dashboard()"
+            },
+            "keyword": "Then "
           }
         ]
       },
       {
-        "start_timestamp": "2022-07-06T21:36:32.268Z",
+        "start_timestamp": "2022-07-07T07:42:39.556Z",
         "before": [
           {
             "result": {
-              "duration": 1948014800,
+              "duration": 2336894700,
               "status": "passed"
             },
             "match": {
@@ -248,14 +315,14 @@
             }
           }
         ],
-        "line": 19,
-        "name": "Product Comparison",
+        "line": 22,
+        "name": "Edit your affiliate information from Cheque payment method to Bank Transfer",
         "description": "",
-        "id": "laptop-\u0026-notebooks;product-comparison",
+        "id": "rtail-page;edit-your-affiliate-information-from-cheque-payment-method-to-bank-transfer",
         "after": [
           {
             "result": {
-              "duration": 203462900,
+              "duration": 220268900,
               "status": "passed"
             },
             "match": {
@@ -268,181 +335,88 @@
         "steps": [
           {
             "result": {
-              "duration": 2086570300,
-              "status": "passed"
-            },
-            "line": 20,
-            "name": "User click on product comparison icon on ‘MacBook’",
-            "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_product_comparison_icon_on_mac_book()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2076623700,
-              "status": "passed"
-            },
-            "line": 21,
-            "name": "User click on product comparison icon on ‘MacBook Air’",
-            "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_product_comparison_icon_on_mac_book_air()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2348597400,
+              "duration": 2392926800,
               "status": "passed"
             },
             "line": 23,
-            "name": "User click on Product comparison link",
+            "name": "User click on ‘Edit your affiliate informationlink",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_product_comparison_link()"
+              "location": "step.definition.RetailStepDefinition.user_click_on_edit_your_affiliate_informationlink()"
             },
-            "keyword": "And "
+            "keyword": "When "
           },
           {
             "result": {
-              "duration": 2300926500,
+              "duration": 2121268200,
               "status": "passed"
             },
             "line": 24,
-            "name": "User should see Product Comparison Chart",
+            "name": "User click on Bank Transfer radio button",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_should_see_product_comparison_chart()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@LapTop"
-          },
-          {
-            "name": "@Comparison"
-          }
-        ]
-      },
-      {
-        "line": 3,
-        "name": "",
-        "description": "",
-        "type": "background",
-        "keyword": "Background",
-        "steps": [
-          {
-            "result": {
-              "duration": 2606531600,
-              "status": "passed"
-            },
-            "line": 4,
-            "name": "User is on Retail website",
-            "match": {
-              "location": "step.definition.RetailStepDefinition.User_is_on_Retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 175494500,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "User click on Laptop \u0026NoteBook tab",
-            "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_laptop_note_book_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2319887900,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "User click on Show all Laptop \u0026NoteBook option",
-            "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_show_all_laptop_note_book_option()"
+              "location": "step.definition.RetailStepDefinition.User_click_on_bank_transfer_radio_button()"
             },
             "keyword": "And "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-07-06T21:36:48.497Z",
-        "before": [
+          },
           {
             "result": {
-              "duration": 1803246800,
+              "duration": 12598884300,
               "status": "passed"
             },
+            "line": 25,
+            "name": "User fill Bank information with below information",
             "match": {
-              "location": "step.definition.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 27,
-        "name": "Adding an item to Wish list",
-        "description": "",
-        "id": "laptop-\u0026-notebooks;adding-an-item-to-wish-list",
-        "after": [
-          {
-            "result": {
-              "duration": 201702100,
-              "status": "passed"
+              "location": "step.definition.RetailStepDefinition.user_fill_bank_information_with_below_information(io.cucumber.datatable.DataTable)"
             },
-            "match": {
-              "location": "step.definition.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
+            "rows": [
+              {
+                "cells": [
+                  "bankName",
+                  "abaNumber",
+                  "swiftCode",
+                  "accountName",
+                  "accountNumber"
+                ]
+              },
+              {
+                "cells": [
+                  "Kabul",
+                  "01",
+                  "0123",
+                  "Saving",
+                  "1234567890"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
           {
             "result": {
-              "duration": 76795600,
+              "duration": 2536454800,
               "status": "passed"
             },
             "line": 28,
-            "name": "User click on heart icon to add \u0027Sony VaIO\u0027 laptop to wish list",
+            "name": "User click on Continue button",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Sony VaIO\u0027",
-                  "offset": 32
-                }
-              ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_heart_icon_to_add_laptop_to_wish_list(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.User_click_on_continue_button()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 2441272700,
+              "duration": 2244471400,
               "status": "passed"
             },
             "line": 29,
-            "name": "User should get a message \u0027You must login or create an account to save Sony VAIO to your wish list!\u0027",
+            "name": "User should see a success message",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027You must login or create an account to save Sony VAIO to your wish list!\u0027",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_should_get_a_message(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.user_should_see_a_success_message()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@LapTop"
-          },
-          {
-            "name": "@WishList"
+            "name": "@Retail"
           }
         ]
       },
@@ -455,7 +429,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2639820500,
+              "duration": 2603538300,
               "status": "passed"
             },
             "line": 4,
@@ -467,36 +441,82 @@
           },
           {
             "result": {
-              "duration": 144581200,
+              "duration": 2112320000,
               "status": "passed"
             },
             "line": 5,
-            "name": "User click on Laptop \u0026NoteBook tab",
+            "name": "User click on MyAccount",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_laptop_note_book_tab()"
+              "location": "step.definition.RetailStepDefinition.User_click_on_MyAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 274269500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2374648000,
+              "duration": 2455933800,
               "status": "passed"
             },
-            "line": 6,
-            "name": "User click on Show all Laptop \u0026NoteBook option",
+            "line": 7,
+            "name": "User enter username \u0027muhammad.khusravi@tekschool.us\u0027 and password \u00271234567890\u0027",
             "match": {
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_show_all_laptop_note_book_option()"
+              "arguments": [
+                {
+                  "val": "\u0027muhammad.khusravi@tekschool.us\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u00271234567890\u0027",
+                  "offset": 66
+                }
+              ],
+              "location": "step.definition.RetailStepDefinition.User_enter_username_and_password(java.lang.String,java.lang.String)"
             },
             "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 517114100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2232526300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_should_be_logged_in_to_MyAccount_dashboard()"
+            },
+            "keyword": "Then "
           }
         ]
       },
       {
-        "start_timestamp": "2022-07-06T21:36:58.140Z",
+        "start_timestamp": "2022-07-07T07:43:14.203Z",
         "before": [
           {
             "result": {
-              "duration": 1914861200,
+              "duration": 2254411200,
               "status": "passed"
             },
             "match": {
@@ -505,13 +525,13 @@
           }
         ],
         "line": 32,
-        "name": "Validate the price of MacBook Pro is \u00272000\u0027",
+        "name": "Edit your account Information",
         "description": "",
-        "id": "laptop-\u0026-notebooks;validate-the-price-of-macbook-pro-is--2000-",
+        "id": "rtail-page;edit-your-account-information",
         "after": [
           {
             "result": {
-              "duration": 189495000,
+              "duration": 205564200,
               "status": "passed"
             },
             "match": {
@@ -524,56 +544,89 @@
         "steps": [
           {
             "result": {
-              "duration": 1510503900,
+              "duration": 557861300,
               "status": "passed"
             },
             "line": 33,
-            "name": "User click on \u0027MacBook Pro\u0027 item",
+            "name": "User click on \u0027Edit your account information\u0027 link",
             "match": {
               "arguments": [
                 {
-                  "val": "\u0027MacBook Pro\u0027",
+                  "val": "\u0027Edit your account information\u0027",
                   "offset": 14
                 }
               ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_click_on_item(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.user_click_on_link(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10742533500,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User modify below information",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstname",
+                  "lastName",
+                  "email",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "Muhammad",
+                  "Khusravi",
+                  "muhammad@gmail.com",
+                  "1234567890"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2484167500,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "step.definition.RetailStepDefinition.User_click_on_continue_button()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 2294617500,
+              "duration": 2293064800,
               "status": "passed"
             },
-            "line": 34,
-            "name": "User should see \u0027$2,000.00\u0027 price tag is present on UI.",
+            "line": 38,
+            "name": "User should see a success message",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027$2,000.00\u0027",
-                  "offset": 16
-                }
-              ],
-              "location": "step.definition.LaptopNoteBooksStepDefinition.user_should_see_price_tag_is_present_on_ui(java.lang.String)"
+              "location": "step.definition.RetailStepDefinition.user_should_see_a_success_message()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@LapTop"
-          },
-          {
-            "name": "@ValidatePrice"
+            "name": "@Retail"
           }
         ]
       }
     ],
-    "name": "Laptop \u0026 NoteBooks",
+    "name": "Rtail page",
     "description": "",
-    "id": "laptop-\u0026-notebooks",
+    "id": "rtail-page",
     "keyword": "Feature",
-    "uri": "classpath:feature/LaptopNoteBooks.feature",
+    "uri": "classpath:feature/RetailPage.feature",
     "tags": []
   }
 ]

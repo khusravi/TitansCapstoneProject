@@ -151,18 +151,6 @@ public class RetailStepDefinition extends Base{
 		WebDriverUtility.hardWait();
 	}
 	
-	//duplicate methods
-//	@And ("User click on Continue button")
-//	public void User_click_On_Continue_button() {
-//		retailPage.clickOnContinueBtn();
-//	}
-	
-//	@Then("User should see a success message")
-//	public void user_should_see_a_success_message() {
-//		Assert.assertTrue(retailPage.isSuccessMessagePresent());
-//		logger.info("success message is present");
-//	    
-//	}
 	
 	//Edit Account Information Scenario
 	@When("User click on {string} link")
@@ -187,31 +175,7 @@ public class RetailStepDefinition extends Base{
 		
 	}
 	
-//	@And ("User click on continue button")
-//	public void User_click_on_continue_button() {
-//		
-//	}
 	
-	
-//	@Then("user should see a successfull message {string}")
-//	public void user_should_see_a_successfull_message(String expected) {
-//		Assert.assertEquals(expected, retailPage.getSuccessMessage());
-//		logger.info("Account information has been modified successfully");
-//		WebDriverUtility.takeScreenShot();
-//		try {
-//			Thread.sleep(5000);
-//		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//	
-//	}
-//	@Then("User should see a message {string}")
-//	public void user_should_see_a_message(String string) {
-//		Assert.assertTrue(retailPage.iSuccessMessagePresent());
-//		logger.info("verified that success message is present");
-//	}
-//	
 	
 	
 	

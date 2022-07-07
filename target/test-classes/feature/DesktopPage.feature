@@ -5,9 +5,11 @@ Feature: Desktops Tab
     When User click on Desktops tab
     And User click on Show all desktops
 	
+	@DesktopTab
   Scenario: User verify all items are present in Desktops tab
     Then User should see all items are present in Desktop page
 	
+	@DesktopTab
   Scenario: User add HP LP 3065 from Desktops tab to the cart
     And User click ADD TO CART option on HP LP3065 item
     And User select quantity '1'
@@ -21,7 +23,7 @@ Feature: Desktops Tab
     And User click add to Cart button
     Then User should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!’
 
-  
+  @DesktopTab
   Scenario: User add a review to Canon EOS 5D item in Desktops tab
     And User click on Canon EOS 5D item
     And User click on write a review link

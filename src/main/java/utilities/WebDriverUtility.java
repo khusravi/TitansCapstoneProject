@@ -108,13 +108,13 @@ public class WebDriverUtility extends Base {
 //
 //	}
 //
-//	/*
-//	 * This method will clear the value from input text field
-//	 */
-//	public static void clearText(WebElement ele) {
-//		ele.clear();
-//
-//	}
+	/*
+	 * This method will clear the value from input text field
+	 */
+	public static void clearText(WebElement ele) {
+		ele.clear();
+
+	}
 //
 //	/*
 //	 * This method will scrollPage down using JSExecutor interface
